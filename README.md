@@ -1,4 +1,4 @@
-<h1>Practica final para Carmen</h1>
+<h1>Practica cursos para Carmen - Hecha por Andres Carrero Fraile</h1>
 <h2>Setup</h2>
 <ul>
   <li>git clone https://github.com/uldrens0v/andresPracticaCursos </li>
